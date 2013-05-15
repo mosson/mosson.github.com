@@ -88,6 +88,9 @@
 	},
 	"file_history":
 	[
+		"/Users/mosson/Desktop/_works/__github/mosson.github.com/range-component/index.html",
+		"/Users/mosson/Desktop/_works/__github/mosson.github.com/range-component/scripts/views/range_view.js",
+		"/Users/mosson/Desktop/_works/__github/mosson.github.com/index.html",
 		"/Users/mosson/Desktop/_works/__github/range-component/.gitignore",
 		"/Users/mosson/Desktop/_works/__github/range-component/bb-range.sublime-project",
 		"/Users/mosson/Desktop/_works/__github/bb-range/app/scripts/models/ranges_mediator.js",
@@ -212,10 +215,7 @@
 		"/Users/mosson/Desktop/_works/startups/app/scripts/models/staff.js",
 		"/Users/mosson/Desktop/_works/startups/Gruntfile.js",
 		"/Users/mosson/Desktop/_works/startups/app/scripts/view/app.js",
-		"/Users/mosson/Desktop/_works/startups/app/view/app.js",
-		"/Users/mosson/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
-		"/Users/mosson/Desktop/_works/startups/app/scripts/vendor/underscore-amd/underscore.js",
-		"/Users/mosson/Desktop/startups/.bowerrc"
+		"/Users/mosson/Desktop/_works/startups/app/view/app.js"
 	],
 	"find":
 	{
@@ -308,6 +308,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"range-component/in",
+				"range-component/index.html"
+			],
 			[
 				"main.",
 				"app/scripts/main.js"
@@ -815,10 +819,6 @@
 			[
 				"flahs",
 				"app/assets/result-areamapping/views/flash.js"
-			],
-			[
-				"in",
-				"app/index.html"
 			]
 		],
 		"width": 0.0

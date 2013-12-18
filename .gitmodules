@@ -10,3 +10,6 @@
 [submodule "regexp-exam"]
 	path = regexp-exam
 	url = git@github.com:mosson/regexp-exam.git
+[submodule "jquery.layer-modal.js"]
+	path = jquery.layer-modal.js
+	url = git@github.com:mosson/jquery.layer-modal.js.git

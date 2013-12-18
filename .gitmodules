@@ -1,0 +1,3 @@
+[submodule "hyunhyun"]
+	path = hyunhyun
+	url = git@github.com:mosson/hyunhyun.git
